@@ -10,4 +10,4 @@ cursor = database.cursor()
 
 cursor.execute("CREATE DATABASE IF NOT EXISTS CRM")
 
-print("Database created successfully")
+print("Database CRM created successfully!")
